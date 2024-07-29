@@ -1,3 +1,12 @@
+# TO DO
+
+- Install all packages - see package.json in
+to_do_app:
+- Tailwind
+- Flowbite-icons
+- Dotenv
+- Mongoose
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
